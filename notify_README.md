@@ -115,4 +115,6 @@ if ($Type -eq "stop") {
 - **PermissionRequest**: "◉ 等待授权确认" + 警报声
 - **Stop**: "✓ 任务已完成" + 提醒声
 
-![VIDEO](https://img.caozihang.com/img/20260304153330400.mp4)
+
+
+<video width="600" controls>   <source src="https://img.caozihang.com/img/20260304153330400.mp4" type="video/mp4">   您的浏览器不支持 video 标签。 </video>
